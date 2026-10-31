@@ -53,6 +53,12 @@ https://github.com/Ankush-Manhas840/crop-yield-prediction
 - Mean Squared Error (MSE)
 - R-squared (R²)
 
+## Future Improvements
+- Explore additional machine learning algorithms.
+- Improve feature selection and preprocessing.
+- Experiment with advanced prediction techniques.
+- Enhance data visualisations and model comparisons.
+
 ## Author
 Abinash Sahoo  
 Department of Computer Science and Engineering  
